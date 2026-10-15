@@ -1,0 +1,26 @@
+.container-question {
+    display: flex;
+    align-items: center;
+    gap: 9px; 
+    margin: 0;
+}
+
+.my-plus-sign {
+      
+  cursor: pointer;
+  line-height: 1;
+  font-size: 30px;
+  font-weight: 1000;
+  margin: 0; 
+
+}
+
+.my-answer {
+    
+    margin: 0 20px 0 20px;
+    font-weight: bold;
+    line-height: 1.6;
+    font-size: 1rem;
+    letter-spacing: 0.02em;
+    
+}
