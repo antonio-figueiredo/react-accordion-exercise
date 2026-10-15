@@ -17,7 +17,7 @@ Abra o terminal e rode o seguinte comando:
 
 docker build -t meu-accordion .
 
-Então, rode esse comando
+Então, rode esse comando:
 
 docker run --name meu-accordion -p 8080:80 -d meu-accordion
 
