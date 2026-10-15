@@ -4,8 +4,11 @@ Esse é um exercício que fiz para estudar React.
 <b>As tecnologias utilizadas são:</b>
 
 -React
+
 -Typecript
+
 -CSS
+
 
 <b>Como rodar esse projeto ? </b> 
 
