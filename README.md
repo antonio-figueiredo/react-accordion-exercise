@@ -12,7 +12,8 @@ Esse é um exercício que fiz para estudar React.
 
 <b>Como rodar esse projeto ? </b> 
 
-Baixe o projeto para sua máquina. 
+Baixe o projeto para sua máquina.
+Coloque o seu ambiente de execução de contêineres de escolha rodando. 
 Abra o terminal e rode o seguinte comando:
 
 docker build -t meu-accordion .
